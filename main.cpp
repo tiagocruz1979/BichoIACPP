@@ -18,9 +18,9 @@ const int window_width = 800;
 const int window_height = 600;
 const int NUMERO_OBSTACULOS = 10;
 const int NUMERO_COMIDA = 100;
-int NUMERO_BICHOS = 20;
+int NUMERO_BICHOS = 110;
 int idGeracao = 0;
-
+// teste
 bool comparaPontuacao(Bicho *b1, Bicho *b2);
 void ordenarBichos(std::vector<Bicho*>& bichos);
 double distanciaEuclidiana(sf::Vector2f v1, sf::Vector2f v2);
