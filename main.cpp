@@ -18,7 +18,7 @@ const int window_width = 800;
 const int window_height = 600;
 const int NUMERO_OBSTACULOS = 10;
 const int NUMERO_COMIDA = 100;
-int NUMERO_BICHOS = 1010;
+int NUMERO_BICHOS = 20;
 int idGeracao = 0;
 
 bool comparaPontuacao(Bicho *b1, Bicho *b2);
